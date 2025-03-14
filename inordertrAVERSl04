@@ -68,7 +68,7 @@ int main(){
     inOrder(p);
     return 0;
 }
-output-
-  4 1 5 2 6 
-5 2 1 6 4 
-5 1 2 4 6
+//output-
+ // 4 1 5 2 6 
+//5 2 1 6 4 
+//5 1 2 4 6
